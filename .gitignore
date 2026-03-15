@@ -1,0 +1,13 @@
+# 忽略 IDEA 生成的配置文件夹和文件
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 忽略 IDEA 编译输出目录
+out/
+target/
+
+# 忽略系统无关文件（可选，推荐加）
+.DS_Store
+Thumbs.db
